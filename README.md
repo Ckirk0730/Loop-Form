@@ -1,5 +1,3 @@
-# Loop-Form
-Track your caddie loops
 <!DOCTYPE html>
 <html>
 <head>
